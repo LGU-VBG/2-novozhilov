@@ -1,0 +1,14 @@
+C:\Users\Admin\LionNovozhilov\bin\Debug\net8.0\LionNovozhilov.exe
+C:\Users\Admin\LionNovozhilov\bin\Debug\net8.0\LionNovozhilov.deps.json
+C:\Users\Admin\LionNovozhilov\bin\Debug\net8.0\LionNovozhilov.runtimeconfig.json
+C:\Users\Admin\LionNovozhilov\bin\Debug\net8.0\LionNovozhilov.dll
+C:\Users\Admin\LionNovozhilov\bin\Debug\net8.0\LionNovozhilov.pdb
+C:\Users\Admin\LionNovozhilov\obj\Debug\net8.0\LionNovozhilov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\LionNovozhilov\obj\Debug\net8.0\LionNovozhilov.AssemblyInfoInputs.cache
+C:\Users\Admin\LionNovozhilov\obj\Debug\net8.0\LionNovozhilov.AssemblyInfo.cs
+C:\Users\Admin\LionNovozhilov\obj\Debug\net8.0\LionNovozhilov.csproj.CoreCompileInputs.cache
+C:\Users\Admin\LionNovozhilov\obj\Debug\net8.0\LionNovozhilov.dll
+C:\Users\Admin\LionNovozhilov\obj\Debug\net8.0\refint\LionNovozhilov.dll
+C:\Users\Admin\LionNovozhilov\obj\Debug\net8.0\LionNovozhilov.pdb
+C:\Users\Admin\LionNovozhilov\obj\Debug\net8.0\LionNovozhilov.genruntimeconfig.cache
+C:\Users\Admin\LionNovozhilov\obj\Debug\net8.0\ref\LionNovozhilov.dll
